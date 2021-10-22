@@ -1,0 +1,2 @@
+# numMayorSeleccion
+Created with CodeSandbox
